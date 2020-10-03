@@ -1,0 +1,48 @@
+.h{
+
+	background:#ff4d4d;
+	padding:10px;
+	border:2px solid black;
+	color:white;
+}
+#y{
+	color:red;
+}
+#x{
+
+	height:450px;
+	width:400px;
+	background:#dcdde1;
+	border:3px solid pink;
+	border radius:25px;
+	margin:0 auto;
+}
+
+#form{
+
+	color:black;
+	margin:5px;
+	text-align:center;
+	padding:3px;
+	height:30px;
+	width:380px;  
+}
+
+#button{
+
+	color:white;
+	margin:2px;
+	text-align:center;
+	padding:2px;
+	height:30px;
+	width:380px;
+	background:blue;
+}	
+body {
+  background-color:pink;
+}
+.container-add{
+	background-color: teal;
+	height: 700px;
+	width: 100%;
+}
